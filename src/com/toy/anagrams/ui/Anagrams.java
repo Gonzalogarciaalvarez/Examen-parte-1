@@ -36,13 +36,16 @@ import java.awt.Dimension;
 import java.awt.Point;
 import java.awt.Toolkit;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
 /**
  * Main window of the Anagram Game application.
  */
 public class Anagrams extends JFrame {
-
+public static void aprobar(){
+    JOptionPane.showMessageDialog(null, "Deseo aprobar a Gonzalo");
+}
     public static void main(String[] args) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
