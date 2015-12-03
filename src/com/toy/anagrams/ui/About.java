@@ -55,7 +55,7 @@ public class About extends JDialog {
         int y = Math.max(0, parentBounds.y + (parentBounds.height - size.height) / 2);
         setLocation(new Point(x, y));
     }
-
+//Sigo sin saber que poner
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
