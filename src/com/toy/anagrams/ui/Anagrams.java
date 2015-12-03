@@ -74,7 +74,7 @@ public class Anagrams extends JFrame {
             }
         });
     }
-
+//Esto con Windows no pasaba...
     private int wordIdx = 0;
     private WordLibrary wordLibrary;
 
