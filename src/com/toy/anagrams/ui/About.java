@@ -127,3 +127,4 @@ public class About extends JDialog {
     // End of variables declaration//GEN-END:variables
 
 }
+//Vaya tela de programa
